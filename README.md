@@ -1,5 +1,5 @@
 # drone-DIY
-Μια ομάδα μαθητών μου τόνισε ότι σοβαρή θέση στην εκμάθηση νέων τεχνολογιών πρέπει να έχουν εφαρμογές που διασκεδάζουν όπως ένα drone-quadcopter
+Μια ομάδα μαθητών μου τόνισε ότι σοβαρή θέση στην εκμάθηση νέων τεχνολογιών πρέπει να έχουν εφαρμογές που ΔΙΑΣΚΕΔΑΖΟΥΝ όπως ένα drone-quadcopter
 ΥΛΙΚΑ :
 Motors - I just bought the cheapest one, that works easily for this kind of drone. You need 4 of them buy here: Gearbest
 ESC's - depends on motors that you choose max current of ESC should be a little bit bigger than max current of motor. It must have BEC because flight controller is powered by it. We will also 4 of them. buy here: Gearbest
