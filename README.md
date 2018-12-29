@@ -1,7 +1,7 @@
 # drone-DIY
 Μια ομάδα μαθητών μου τόνισε ότι σοβαρή θέση στην εκμάθηση νέων τεχνολογιών πρέπει να έχουν εφαρμογές που ΔΙΑΣΚΕΔΑΖΟΥΝ όπως ένα drone-quadcopter
 ΥΛΙΚΑ :
-Motors - I just bought the cheapest one, that works easily for this kind of drone. You need 4 of them buy here: Gearbest
+Motors -  the cheapest one, that works easily for this kind of drone 4 of them buy here: Gearbest
 ESC's - depends on motors that you choose max current of ESC should be a little bit bigger than max current of motor. It must have BEC because flight controller is powered by it. We will also 4 of them. buy here: Gearbest
 Battery - 3S (11.1V) Li-Po should be around 3000mAh to get 15 mins of flight time. Make sure that it can deliver enough current. buy here Gearbest
 Frame - at the beggining it was 3D printed and in the feature it will be, but for now I used very popular F450 frame buy here: Gearbest
